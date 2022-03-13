@@ -16,20 +16,6 @@ Tudo isso para cada usuário em específico. Além disso, dessa vez teremos um p
 
 A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
 
-## Template da aplicação
-
-Para realizar esse desafio, criamos para você esse modelo que você deve utilizar como um template do GitHub.
-
-O template está disponível na seguinte URL: 
-
-[rocketseat-education/ignite-template-trabalhando-com-middlewares](https://github.com/rocketseat-education/ignite-template-trabalhando-com-middlewares)
-
-**Dica**: Caso não saiba utilizar repositórios do GitHub como template, temos um guia em **[nosso FAQ](https://www.notion.so/FAQ-Desafios-ddd8fcdf2339436a816a0d9e45767664).**
-
-Agora navegue até a pasta criada, abra no Visual Studio Code e por último abra o arquivo `index.js`. Lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências e você terá o seguinte código:
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db31d611-26f4-41a4-95be-631f56cc8983/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db31d611-26f4-41a4-95be-631f56cc8983/Untitled.png)
-
 ## Middlewares da aplicação
 
 Com o template já clonado e o arquivo `index.js` aberto, você deve completar onde não possui código com o código para atingir os objetivos de cada teste.
